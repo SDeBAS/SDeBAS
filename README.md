@@ -24,4 +24,4 @@ I'm a Post Graduate Student living in Bengalore aspiring to be a Full Stack Deve
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:basu.debanjan00@gmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/debanjanbasudd/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:basu.debanjan00@gmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="[www.linkedin.com/in/debanjanbasudd/](https://www.linkedin.com/in/debanjan-basu-793066212/)">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
