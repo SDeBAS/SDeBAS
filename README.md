@@ -1,31 +1,54 @@
-![SDeBAS Banner Image](./banner.png)
-
+![Debanjan Basu Banner](./banner.png)
 
 <h2>Hey there! 👋</h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SDeBAS.SDeBAS)](https://github.com/SDeBAS) [![GitHub followers](https://img.shields.io/github/followers/sDeBAS.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SDeBAS.SDeBAS)](https://github.com/SDeBAS)
+[![GitHub followers](https://img.shields.io/github/followers/SDeBAS.svg?style=social&label=Follow)](https://github.com/SDeBAS?tab=followers)
 
-I'm Debanjan Basu! 
-- <i>Currently:</i> MCA Student at Christ (Deemed to be University), Bangalore. 
-- <i>Previously:</i> BSC CS Student at St. Xavier's College(Autonomous), Kolkata.
+I'm **Debanjan Basu** — a passionate **Data Engineer** who loves turning raw data into impactful insights 🚀  
 
-<h2>💻 Interested in </h2>
+- 💼 **Currently:** Associate Analyst (Data Engineer) at **Tech Mahindra**, Pune  
+- 🎓 **Previously:** Data Visualization Analytics Intern at **Christ Consulting**, Bangalore  
+- 🧠 **Education:** MCA from **Christ University**, Bangalore | B.Sc. (Hons.) Computer Science from **St. Xavier’s College**, Kolkata  
 
-- Data Analysis and Visualization
-- Full Stack Web Development
-- Software Engineering
+---
 
+<h2>⚙️ What I Do</h2>
 
+- Build and optimize **ETL pipelines** using Spark, Hive, and Azkaban  
+- Design **data models and warehouses** for scalable BI analytics  
+- Automate data ingestion, transformation, and validation workflows  
+- Collaborate with BI teams to design **Tableau, Power BI, and MicroStrategy dashboards**  
+- Work across **AWS, GCP, and Azure** for cloud-based data engineering  
 
-<h2> About Debanjan Basu⚡:</h2>
+---
 
-A Computer Science student with expertise in data analysis, web development and designing, adept at leveraging data-driven
-insights to inform business decisions. Proficient in frontend web development and utilizing data visualization tools to present
-complex information clearly and visually appealingly. Highly detail-oriented and have a solid ability to conceptualise and design
-user-friendly interfaces for optimal user experiences.
- 
-- Write to me: [basu.debanjan00@gmail.com](mailto:basu.debanjan00@gmail.com)
+<h2>🧰 Tech Stack</h2>
 
-<h2>📫 How to reach me:</h2>
+**Languages:** Python, SQL, C  
+**Big Data Tools:** Apache Spark, Hadoop, Hive, Azkaban  
+**Databases:** MySQL, SQL Server, MongoDB (Basic)  
+**Cloud Platforms:** AWS (S3, Redshift), GCP (BigQuery, Cloud Storage), Azure (ADF, Synapse)  
+**BI Tools:** Tableau, Power BI, MicroStrategy, Looker Studio  
 
-<a href="mailto:basu.debanjan00@gmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="www.linkedin.com/in/debanjanbasudd/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+---
+
+<h2>💡 About Me</h2>
+
+I’m a data-driven problem solver passionate about **data engineering, analytics, and automation**.  
+I enjoy transforming large, complex datasets into reliable, analytics-ready pipelines that empower teams to make smarter decisions.  
+Curious by nature, I’m constantly learning new tools, optimizing workflows, and exploring better ways to deliver business value through data.  
+
+---
+
+<h2>📫 Let's Connect</h2>
+
+<a href="mailto:basu.debanjan00@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/debanjanbasudd/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+---
+
+📝 *Publication:*  
+**"Revolutionizing Healthcare with IoT: Connecting the Dots for Better Patient Outcomes"**  
+ISBN: 9781032679648  
+
