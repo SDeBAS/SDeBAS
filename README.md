@@ -72,4 +72,15 @@ Data Engineer with **2+ years** building high-volume ETL pipelines that don't ju
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel
+  <img src="https://github-readme-stats.vercel.app/api?username=SDeBAS&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDeBAS&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+---
+
+## 📝 Publication
+
+**Revolutionizing Healthcare with IoT: Connecting the Dots for Better Patient Outcomes**
+ISBN: 9781032679648 · [View Book](https://www.routledge.com/AI-and-IoT-Technology-and-Applications-for-Smart-Healthcare-Systems/Khang/p/book/9781032679648)
+```
+
