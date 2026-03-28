@@ -82,5 +82,4 @@ Data Engineer with **2+ years** building high-volume ETL pipelines that don't ju
 
 **Revolutionizing Healthcare with IoT: Connecting the Dots for Better Patient Outcomes**
 ISBN: 9781032679648 · [View Book](https://www.routledge.com/AI-and-IoT-Technology-and-Applications-for-Smart-Healthcare-Systems/Khang/p/book/9781032679648)
-```
 
