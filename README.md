@@ -1,54 +1,75 @@
-![Debanjan Basu Banner](./banner.png)
+<h1 align="center">Hi, I'm Debanjan Basu 👋</h1>
+<h3 align="center">Data Engineer | Spark · Python · SQL · AWS · GCP | ETL Pipelines & Analytics</h3>
 
-<h2>Hey there! 👋</h2>
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=SDeBAS.SDeBAS)](https://github.com/SDeBAS)
-[![GitHub followers](https://img.shields.io/github/followers/SDeBAS.svg?style=social&label=Follow)](https://github.com/SDeBAS?tab=followers)
-
-I'm **Debanjan Basu** — a passionate **Data Engineer** who loves turning raw data into impactful insights 🚀  
-
-- 💼 **Currently:** Associate Analyst (Data Engineer) at **Tech Mahindra**, Pune  
-- 🎓 **Previously:** Data Visualization Analytics Intern at **Christ Consulting**, Bangalore  
-- 🧠 **Education:** MCA from **Christ University**, Bangalore | B.Sc. (Hons.) Computer Science from **St. Xavier’s College**, Kolkata  
-
----
-
-<h2>⚙️ What I Do</h2>
-
-- Build and optimize **ETL pipelines** using Spark, Hive, and Azkaban  
-- Design **data models and warehouses** for scalable BI analytics  
-- Automate data ingestion, transformation, and validation workflows  
-- Collaborate with BI teams to design **Tableau, Power BI, and MicroStrategy dashboards**  
-- Work across **AWS, GCP, and Azure** for cloud-based data engineering  
+<p align="center">
+  <a href="https://linkedin.com/in/debanjanbasudd">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:basu.debanjan00@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SDeBAS&style=for-the-badge&color=0A66C2"/>
+</p>
 
 ---
 
-<h2>🧰 Tech Stack</h2>
+## 👨‍💻 About Me
 
-**Languages:** Python, SQL, C  
-**Big Data Tools:** Apache Spark, Hadoop, Hive, Azkaban  
-**Databases:** MySQL, SQL Server, MongoDB (Basic)  
-**Cloud Platforms:** AWS (S3, Redshift), GCP (BigQuery, Cloud Storage), Azure (ADF, Synapse)  
-**BI Tools:** Tableau, Power BI, MicroStrategy, Looker Studio  
+Data Engineer with **2+ years** building high-volume ETL pipelines that don't just move data — they make it useful.
 
----
-
-<h2>💡 About Me</h2>
-
-I’m a data-driven problem solver passionate about **data engineering, analytics, and automation**.  
-I enjoy transforming large, complex datasets into reliable, analytics-ready pipelines that empower teams to make smarter decisions.  
-Curious by nature, I’m constantly learning new tools, optimizing workflows, and exploring better ways to deliver business value through data.  
+- 🏢 **Currently:** Data Engineer (L2) at **Tech Mahindra** — Pharma BI Analytics for ZS Associates (US, EUCAN, Japan)
+- ⚡ **Impact:** 500+ GB/day processed · 45% faster runtimes · 60% less manual overhead · 95% reporting accuracy
+- 🌩️ **Stack:** Apache Spark · Hive · Python · SQL · AWS (S3, Redshift) · GCP (BigQuery, Dataproc) · Airflow · Azkaban
+- 🎓 **Education:** MCA — Christ University, Bangalore | B.Sc. (Hons.) CS — St. Xavier's College, Kolkata
+- 📍 **Location:** Kolkata, India | Open to Relocation / Remote
+- 📫 **Reach me:** basu.debanjan00@gmail.com
 
 ---
 
-<h2>📫 Let's Connect</h2>
+## 🧰 Tech Stack
 
-<a href="mailto:basu.debanjan00@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/debanjanbasudd/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+**Languages & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Spark SQL](https://img.shields.io/badge/SparkSQL-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Big Data & Orchestration**
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Azkaban](https://img.shields.io/badge/Azkaban-333333?style=flat&logoColor=white)
+
+**Cloud Platforms**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**BI & Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
 
 ---
 
-📝 *Publication:*  
-**"Revolutionizing Healthcare with IoT: Connecting the Dots for Better Patient Outcomes"**  
-ISBN: 9781032679648  
+## 🚀 Featured Projects
 
+### 🔹 [Uber Data Analysis — GCP End-to-End Pipeline](https://github.com/SDeBAS/uber-gcp-pipeline)
+> Cloud-native ETL pipeline ingesting Uber trip data into GCS → Mage AI transformation → BigQuery warehousing → Looker Studio dashboards
+> **Stack:** GCP · BigQuery · Mage AI · Python · SQL · Looker Studio
+
+### 🔹 [Coming Soon — Pharma ETL Pipeline Simulator](https://github.com/SDeBAS)
+> End-to-end Spark + Airflow pipeline simulating real-world Pharma BI data flow with data quality checks
+> **Stack:** PySpark · Airflow · AWS S3 · Python · Great Expectations
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel
