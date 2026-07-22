@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Debanjan Basu 👋</h1>
-<h3 align="center">Data Engineer | Spark · Python · SQL · AWS · GCP | ETL Pipelines & Analytics</h3>
+<h3 align="center">Data Analyst | SQL · Python · Power BI · Tableau · GCP | Turning Data into Business Insights</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/debanjanbasudd">
@@ -15,62 +15,58 @@
 
 ## 👨‍💻 About Me
 
-Data Engineer with **2+ years** building high-volume ETL pipelines that don't just move data — they make it useful.
+Data Analyst with **2+ years** of experience in data analysis, quality monitoring, and business reporting — working with large-scale structured datasets and delivering actionable insights through dashboards and data storytelling.
 
-- 🏢 **Currently:** Data Engineer (L2) at **Tech Mahindra** — Pharma BI Analytics for ZS Associates (US, EUCAN, Japan)
-- ⚡ **Impact:** 500+ GB/day processed · 45% faster runtimes · 60% less manual overhead · 95% reporting accuracy
-- 🌩️ **Stack:** Apache Spark · Hive · Python · SQL · AWS (S3, Redshift) · GCP (BigQuery, Dataproc) · Airflow · Azkaban
-- 🎓 **Education:** MCA — Christ University, Bangalore | B.Sc. (Hons.) CS — St. Xavier's College, Kolkata
-- 📍 **Location:** Kolkata, India | Open to Relocation / Remote
+- 🏢 **Currently:** Analyst at **Tech Mahindra** — Pharma BI Analytics for ZS Associates (US, EUCAN, Japan)
+- ⚡ **Impact:** 500+ GB/day analysed · 95% reporting accuracy · 60% fewer data errors · 45% faster processing · 25% faster dashboard delivery
+- 📊 **Stack:** SQL · Python · Power BI · Tableau · Looker Studio · Spark SQL · HiveQL · AWS (S3) · GCP (BigQuery)
+- 🎓 **Education:** MCA (CGPA: 9.27) — Christ University | B.Sc. (Hons.) CS (CGPA: 8.40) — St. Xavier's College, Kolkata
+- 📍 **Location:** Kolkata, India | Open to Kolkata · Pune · Bangalore · Remote
 - 📫 **Reach me:** basu.debanjan00@gmail.com
 
 ---
 
 ## 🧰 Tech Stack
 
-**Languages & Databases**
+**Analytics & Visualisation**
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
+
+**Languages & Query**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Spark SQL](https://img.shields.io/badge/SparkSQL-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-**Big Data & Orchestration**
+**Cloud & Big Data**
 
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Azkaban](https://img.shields.io/badge/Azkaban-333333?style=flat&logoColor=white)
-
-**Cloud Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-
-**BI & Visualization**
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [Uber Data Analysis — GCP End-to-End Pipeline](https://github.com/SDeBAS/uber-gcp-pipeline)
-> Cloud-native ETL pipeline ingesting Uber trip data into GCS → Mage AI transformation → BigQuery warehousing → Looker Studio dashboards
+### 🔹 [Uber Trip Analytics — GCP End-to-End Pipeline](https://github.com/SDeBAS/uber-gcp-pipeline)
+> Cloud-native analytics pipeline — raw trip data from GCS → Python transformation via Mage AI → BigQuery warehouse → Looker Studio dashboards surfacing ride demand trends, peak-hour patterns, and customer behaviour insights.
 > **Stack:** GCP · BigQuery · Mage AI · Python · SQL · Looker Studio
 
-### 🔹 [Coming Soon — Pharma ETL Pipeline Simulator](https://github.com/SDeBAS)
-> End-to-end Spark + Airflow pipeline simulating real-world Pharma BI data flow with data quality checks
-> **Stack:** PySpark · Airflow · AWS S3 · Python · Great Expectations
+### 🔹 [Sales Inventory Management — Power BI Dashboard](https://github.com/SDeBAS)
+> Cleaned and transformed raw sales data using Power Query, built data models in Power BI, and created interactive dashboards replacing manual Excel-based reporting for inventory and sales tracking.
+> **Stack:** Power BI · DAX · Power Query · SQL
 
 ---
 
-## 📝 Publication
+## 📝 Publications
 
 **Revolutionizing Healthcare with IoT: Connecting the Dots for Better Patient Outcomes**
 ISBN: 9781032679648 · [View Book](https://www.routledge.com/AI-and-IoT-Technology-and-Applications-for-Smart-Healthcare-Systems/Khang/p/book/9781032679648)
 
+**Personalized Moving Assistance Using IoT and NLP**
+ISBN: 978-81-966306-3-8
