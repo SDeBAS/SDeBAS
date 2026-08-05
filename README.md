@@ -1,5 +1,12 @@
 <h1 align="center">Hi, I'm Debanjan Basu 👋</h1>
-<h3 align="center">Data Analyst | SQL · Python · Power BI · Tableau · GCP | Turning Data into Business Insights</h3>
+
+<h3 align="center">
+Data Analyst | Python • SQL • Power BI • Spark • Big Data • Cloud Analytics
+</h3>
+
+<p align="center">
+  Turning complex data into meaningful business insights through analytics, automation, and visualization.
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/debanjanbasudd">
@@ -13,60 +20,109 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Data Analyst with **2+ years** of experience in data analysis, quality monitoring, and business reporting — working with large-scale structured datasets and delivering actionable insights through dashboards and data storytelling.
+Data Analyst with **2+ years of experience** analyzing enterprise-scale data using Python, SQL, Spark, and BI tools. Experienced in EDA, automation, dashboard development, and stakeholder reporting across large-scale production environments.
 
-- 🏢 **Currently:** Analyst at **Tech Mahindra** — Pharma BI Analytics for ZS Associates (US, EUCAN, Japan)
-- ⚡ **Impact:** 500+ GB/day analysed · 95% reporting accuracy · 60% fewer data errors · 45% faster processing · 25% faster dashboard delivery
-- 📊 **Stack:** SQL · Python · Power BI · Tableau · Looker Studio · Spark SQL · HiveQL · AWS (S3) · GCP (BigQuery)
-- 🎓 **Education:** MCA (CGPA: 9.27) — Christ University | B.Sc. (Hons.) CS (CGPA: 8.40) — St. Xavier's College, Kolkata
-- 📍 **Location:** Kolkata, India | Open to Kolkata · Pune · Bangalore · Remote
-- 📫 **Reach me:** basu.debanjan00@gmail.com
+- 🏢 **Analyst @ Tech Mahindra** (Client: ZS Associates)
+- 🌍 Supporting Pharma BI Analytics across **US, Europe & Japan**
+- 📊 **500+ GB/day** data processed • **95%** reporting accuracy
+- ⚡ Improved pipeline performance by **45%** and reduced manual effort by **60%**
+- 📈 Delivered KPI dashboards using **Power BI, Tableau & MicroStrategy**
+- ☁️ Working with **AWS S3, Spark, Hadoop, Hive, Azkaban & GCP**
+- 🎓 MCA — Christ University (CGPA **9.27**)
+- 📍 Kolkata | Open to Data Analyst & Analytics roles
 
 ---
 
-## 🧰 Tech Stack
+# 🛠 Tech Stack
 
-**Analytics & Visualisation**
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
-
-**Languages & Query**
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-**Cloud & Big Data**
+### Data Analytics
 
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
+
+### Big Data
+
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat)
 ![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 [Uber Trip Analytics — GCP End-to-End Pipeline](https://github.com/SDeBAS/uber-gcp-pipeline)
-> Cloud-native analytics pipeline — raw trip data from GCS → Python transformation via Mage AI → BigQuery warehouse → Looker Studio dashboards surfacing ride demand trends, peak-hour patterns, and customer behaviour insights.
-> **Stack:** GCP · BigQuery · Mage AI · Python · SQL · Looker Studio
+## 🛍 Customer Shopping Behavior Analysis
+**Python • PostgreSQL • SQL • Power BI**
 
-### 🔹 [Sales Inventory Management — Power BI Dashboard](https://github.com/SDeBAS)
-> Cleaned and transformed raw sales data using Power Query, built data models in Power BI, and created interactive dashboards replacing manual Excel-based reporting for inventory and sales tracking.
-> **Stack:** Power BI · DAX · Power Query · SQL
+End-to-end retail analytics project involving data cleaning, feature engineering, exploratory data analysis, SQL-based business analysis, customer segmentation, and interactive Power BI dashboards to uncover customer behavior, product trends, and revenue insights.
+
+🔗 **Repository:** https://github.com/SDeBAS/Customer_Shopping_Behavior_Analysis
 
 ---
 
-## 📝 Publications
+## 🚖 Uber Trip Analytics on Google Cloud
+**Python • GCP • BigQuery • Mage AI • Looker Studio**
 
-**Revolutionizing Healthcare with IoT: Connecting the Dots for Better Patient Outcomes**
-ISBN: 9781032679648 · [View Book](https://www.routledge.com/AI-and-IoT-Technology-and-Applications-for-Smart-Healthcare-Systems/Khang/p/book/9781032679648)
+Built a cloud-native analytics pipeline that ingests Uber trip data into Google Cloud Storage, performs ETL using Mage AI and Python, loads data into BigQuery, and visualizes ride demand, peak-hour trends, and customer insights using Looker Studio.
 
-**Personalized Moving Assistance Using IoT and NLP**
-ISBN: 978-81-966306-3-8
+🔗 **Repository:** https://github.com/SDeBAS/uber-gcp-pipeline
+
+---
+
+## 📊 Sales Inventory Management Dashboard
+**Power BI • SQL • DAX**
+
+Developed interactive Power BI dashboards using Power Query, DAX, and SQL to analyze sales performance, inventory trends, and business KPIs while replacing manual Excel reporting.
+
+---
+
+# 📚 Publications
+
+📖 **Revolutionizing Healthcare with IoT: Connecting the Dots for Better Patient Outcomes**
+> Taylor & Francis (CRC Press)
+> ISBN: **9781032679648**
+
+📖 **Personalized Moving Assistance Using IoT and NLP**
+> ISBN: **978-81-966306-3-8**
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SDeBAS&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDeBAS&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SDeBAS&theme=tokyonight"/>
+</p>
+
+---
+
+### 💡 Current Focus
+
+- 📊 Advanced Data Analytics
+- ☁️ Google Cloud & AWS
+- ⚡ Apache Spark & PySpark
+- 🤖 AI-assisted Analytics
+- 📈 Dashboard Development & Data Storytelling
+- 🧠 SQL Optimization & Business Intelligence
