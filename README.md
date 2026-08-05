@@ -100,23 +100,6 @@ Developed interactive Power BI dashboards using Power Query, DAX, and SQL to ana
 📖 **Personalized Moving Assistance Using IoT and NLP**
 > ISBN: **978-81-966306-3-8**
 
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SDeBAS&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDeBAS&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SDeBAS&theme=tokyonight"/>
-</p>
-
----
 
 ### 💡 Current Focus
 
