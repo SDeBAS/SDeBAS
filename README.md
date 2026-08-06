@@ -1,111 +1,251 @@
-<h1 align="center">Hi, I'm Debanjan Basu 👋</h1>
-
-<h3 align="center">
-Data Analyst | Python • SQL • Power BI • Spark • Big Data • Cloud Analytics
-</h3>
+<h1 align="center">
+Hi 👋 I'm Debanjan Basu
+</h1>
 
 <p align="center">
-  Turning complex data into meaningful business insights through analytics, automation, and visualization.
+Data Analyst • Big Data • Business Intelligence • Cloud Analytics
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/debanjanbasudd">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:basu.debanjan00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SDeBAS&style=for-the-badge&color=0A66C2"/>
+Transforming enterprise-scale data into business decisions through analytics, engineering, and visualization.
+</p>
+
+<p align="center">
+<a href="YOUR LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOURMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=SDeBAS&style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 What I Do
 
-Data Analyst with **2+ years of experience** analyzing enterprise-scale data using Python, SQL, Spark, and BI tools. Experienced in EDA, automation, dashboard development, and stakeholder reporting across large-scale production environments.
+I work at **Tech Mahindra (Client: ZS Associates)** where I analyze enterprise-scale pharmaceutical data supporting business teams across **US, Europe, and Japan**.
 
-- 🏢 **Analyst @ Tech Mahindra** (Client: ZS Associates)
-- 🌍 Supporting Pharma BI Analytics across **US, Europe & Japan**
-- 📊 **500+ GB/day** data processed • **95%** reporting accuracy
-- ⚡ Improved pipeline performance by **45%** and reduced manual effort by **60%**
-- 📈 Delivered KPI dashboards using **Power BI, Tableau & MicroStrategy**
-- ☁️ Working with **AWS S3, Spark, Hadoop, Hive, Azkaban & GCP**
-- 🎓 MCA — Christ University (CGPA **9.27**)
-- 📍 Kolkata | Open to Data Analyst & Analytics roles
+My work spans:
+
+📊 Data Analytics
+
+⚡ Big Data Processing
+
+📈 Business Intelligence
+
+☁️ Cloud Analytics
+
+🔄 ETL & Data Quality
+
+Although my day-to-day work revolves around analytics, I enjoy building end-to-end data solutions—from ingestion and transformation to dashboards and business storytelling.
 
 ---
 
-# 🛠 Tech Stack
+# 💼 Professional Snapshot
+
+✔ 2+ Years Experience
+
+✔ 500+ GB Data Processed Daily
+
+✔ 95% Reporting Accuracy
+
+✔ 45% Faster Data Processing
+
+✔ 60% Reduction in Manual Validation
+
+✔ 25% Faster Dashboard Delivery
+
+✔ Analyst & Cohort Owner supporting global stakeholders
+
+---
+
+# 🛠 Tech Toolbox
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+Python • SQL • PostgreSQL
 
 ### Data Analytics
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=looker&logoColor=white)
+Power BI
+
+Tableau
+
+Looker Studio
+
+Excel
 
 ### Big Data
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat)
-![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat&logo=apachehive&logoColor=black)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
+Apache Spark
+
+PySpark
+
+Hive
+
+Hadoop
+
+Spark SQL
+
+HiveQL
+
+Azkaban
 
 ### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+AWS S3
+
+Google Cloud
+
+BigQuery
+
+### Concepts
+
+EDA
+
+Data Cleaning
+
+Feature Engineering
+
+Data Validation
+
+Dashboarding
+
+ETL
+
+Data Warehousing
+
+Medallion Architecture
+
+Data Storytelling
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-## 🛍 Customer Shopping Behavior Analysis
-**Python • PostgreSQL • SQL • Power BI**
+## 🛍 Customer Shopping Behavior Analytics
 
-End-to-end retail analytics project involving data cleaning, feature engineering, exploratory data analysis, SQL-based business analysis, customer segmentation, and interactive Power BI dashboards to uncover customer behavior, product trends, and revenue insights.
+End-to-end retail analytics project using Python, PostgreSQL, SQL and Power BI.
 
-🔗 **Repository:** https://github.com/SDeBAS/Customer_Shopping_Behavior_Analysis
+Highlights
+
+• Data Cleaning
+
+• Feature Engineering
+
+• Exploratory Data Analysis
+
+• Customer Segmentation
+
+• Business Analytics
+
+• Interactive Dashboard
+
+**Tech**
+
+Python • PostgreSQL • SQL • Power BI
+
+🔗 Repository
 
 ---
 
 ## 🚖 Uber Trip Analytics on Google Cloud
-**Python • GCP • BigQuery • Mage AI • Looker Studio**
 
-Built a cloud-native analytics pipeline that ingests Uber trip data into Google Cloud Storage, performs ETL using Mage AI and Python, loads data into BigQuery, and visualizes ride demand, peak-hour trends, and customer insights using Looker Studio.
+Cloud-native analytics pipeline built using Google Cloud Platform.
 
-🔗 **Repository:** https://github.com/SDeBAS/uber-gcp-pipeline
+Pipeline
+
+GCS
+
+↓
+
+Mage AI
+
+↓
+
+BigQuery
+
+↓
+
+Looker Studio
+
+Built to analyze ride demand, customer trends and operational KPIs.
+
+**Tech**
+
+Python • GCP • BigQuery • Mage AI • SQL
 
 ---
 
-## 📊 Sales Inventory Management Dashboard
-**Power BI • SQL • DAX**
+## 📊 Sales & Inventory Analytics
 
-Developed interactive Power BI dashboards using Power Query, DAX, and SQL to analyze sales performance, inventory trends, and business KPIs while replacing manual Excel reporting.
+Business Intelligence dashboard built in Power BI to monitor sales performance, inventory trends and KPIs using DAX and Power Query.
 
 ---
 
-# 📚 Publications
+# 📖 Publications
 
-📖 **Revolutionizing Healthcare with IoT: Connecting the Dots for Better Patient Outcomes**
-> Taylor & Francis (CRC Press)
-> ISBN: **9781032679648**
+📘 Revolutionizing Healthcare with IoT
 
-📖 **Personalized Moving Assistance Using IoT and NLP**
-> ISBN: **978-81-966306-3-8**
+Taylor & Francis
+
+ISBN
+
+9781032679648
+
+---
+
+📘 Personalized Moving Assistance Using IoT & NLP
+
+ISBN
+
+9788196630638
+
+---
+
+# 📚 Currently Learning
+
+Apache Airflow
+
+Databricks
+
+Snowflake
+
+Machine Learning for Analytics
+
+LLMs for Data Analytics
+
+---
+
+# 🤝 Open To
+
+✔ Data Analyst
+
+✔ Business Analyst
+
+✔ Analytics Engineer
+
+✔ BI Developer
+
+✔ Data Engineer
 
 
-### 💡 Current Focus
 
-- 📊 Advanced Data Analytics
-- ☁️ Google Cloud & AWS
-- ⚡ Apache Spark & PySpark
-- 🤖 AI-assisted Analytics
-- 📈 Dashboard Development & Data Storytelling
-- 🧠 SQL Optimization & Business Intelligence
+## 💬 Let's Connect
+
+I'm always happy to connect with people interested in
+
+• Data Analytics
+
+• Business Intelligence
+
+• Big Data
+
+• Cloud Data Engineering
+
+• Open Source
+
+• AI-powered Analytics
